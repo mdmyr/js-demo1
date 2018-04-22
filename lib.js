@@ -1,0 +1,2 @@
+
+var myLibvar ='Am here'

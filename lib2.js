@@ -1,0 +1,1 @@
+var myLibvar = window.myLibvar || "Am in secone lib"
